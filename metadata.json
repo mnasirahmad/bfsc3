@@ -1,0 +1,6 @@
+{
+  "name": "Baba Fareed Seed Corporation ERP",
+  "description": "Enterprise Accounting & ERP Management System for Baba Fareed Seed Corporation, 7-K.M Multan Road Vehari. Features Chart of Accounts, Vouchers, Invoices, Ledgers, Trial Balance, Sundry Debtors, Daily Transactions, and MySQL backend integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
